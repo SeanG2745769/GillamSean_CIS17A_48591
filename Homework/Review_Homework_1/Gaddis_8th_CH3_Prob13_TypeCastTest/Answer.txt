@@ -1,0 +1,3 @@
+9 (Because the components are ints the result remains an int)
+9.5 (Because one component is converted to a double so the other takes the double form)
+9 (because the integer math is done first and then the type cast is completed)
